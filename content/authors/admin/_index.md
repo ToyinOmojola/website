@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yu-Fang Yang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Würzburg
+  url: https://www.psychologie.uni-wuerzburg.de/en/expklin/staff/yu-fang-yang/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include psychology, neuroscience and how human behaviours are shaped by social environment. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Face perception
+- Emotions
+- Visual processing
+- Drift decision model 
+- Electroencephalogram (EEG)
+- Eye tracking 
+- Open Science
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Psychology
+    institution: University of Paris-Saclay, France
+    year: 2018
+  - course: Md in Psychology in Education
+    institution: University of Bristol, England
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Information and Communication
+    institution: Chinese Culture University, Taiwan
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,20 +45,23 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: /#contact
+- display:
+    header: true
+  icon: twitter
+  icon_pack: fab
+  label: Follow me on Twitter
+  link: https://twitter.com/ufangyang
+- icon: graduation-cap
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=qEgjV44AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ufangyang
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/yu-fang-yang-a911b416/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,14 +71,14 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "yu-fang.yang@uni-wuerzburg.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am s a researcher in Department of Psychology at the University of Wurzburg, Germany. Her research interests include social behavior, the face perception, facial expressions, eye movement, and EEG.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I currently lead a project investigating the role of the diagnostic facial features (e.g., eyes and mouth) in the process of facial expression, which is supported by research grant from the [German Academic Exchange Service (DAAD)](https://www.daad.de/en/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
