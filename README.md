@@ -1,2 +1,3 @@
+![](https://github.com/ufangYang/website/blob/master/background.png)
 
-![background](../main/background.png)
+
