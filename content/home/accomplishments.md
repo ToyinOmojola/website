@@ -29,7 +29,7 @@ item:
   description: ""
   organization: repliCATS project, `|2- Canada`
   organization_url: 
-  title: `repliCATS project workshop grant ($500)`
+  title:  `repliCATS project workshop grant ($500)`
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
