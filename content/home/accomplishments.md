@@ -30,7 +30,7 @@ item:
   description: ""
   organization: repliCATS project, Victoria, Canada
   organization_url: 
-  title: repliCATS project workshop grant ($500)
+  title: 'repliCATS project workshop grant ($500)'
   url: ""
 - certificate_url: 
   date_end: ""
@@ -38,7 +38,7 @@ item:
   description: 
   organization: Society for the Improvement of Psychological Science (SIPS)
   organization_url: 
-  title: Travel Grant ($2000),  Victoria, Canada
+  title: 'Travel Grant ($2000),  Victoria, Canada'
   url: 
 - certificate_url: 
   date_end: ""
