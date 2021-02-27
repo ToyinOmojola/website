@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2020"
   description: ""
-  organization: `repliCATS project, Victoria, Canada`
+  organization: repliCATS project, `|2- Canada`
   organization_url: 
   title: `repliCATS project workshop grant ($500)`
   url: ""
