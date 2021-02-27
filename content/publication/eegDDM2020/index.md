@@ -17,7 +17,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2020-09-03"
-doi: ""
+doi: "10.3389/fnhum.2020.00340"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-09-03"
