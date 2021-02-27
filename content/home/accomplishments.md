@@ -23,23 +23,34 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-11-01"
+  description: 
+  organization: German Academic Excahnge Service (DAAD)
+  organization_url:
+  title: Research grant, University of Würzburg, Germany
+  url: 
+  
 - certificate_url: 
   date_end: ""
   date_start: "2018-07-01"
   description: 
   organization: repliCATS workshop
   organization_url:
-  title: Workshp grant()
+  title: Workshp grant ($500),Victoria, Canada
   url: 
   
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date_start: "2018-07-01"
+  description: 
+  organization: Society for Improvement of Psychological Science (SIPS)
+  organization_url: 
+  title: Travel Grant
+  url: 
+  
 - certificate_url: https://www.datacamp.com
   date_end: "2017-12-21"
   date_start: "2017-07-01"
