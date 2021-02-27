@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Grand average event-related potential (ERP) waveforms elicited by photographed and sketched faces in the upright (left column) and inverted (right column) orientations at the left and right occipital electrodes (O1 and O2, respectively) for the P100 component (A,B), the left and right occipito-temporal electrode sites (P7 and P8) for the N170 component (C,D), and the left and right parietal electrode sites (P3 and P4) and the left and right at parietal electrodes (P3 and P4) for P250 component (E,F).'
+   caption: 'Grand average event-related potential (ERP) waveforms elicited by photographed and sketched faces    in the upright (left column) and inverted (right column) orientations at the left and right occipital   electrodes (O1 and O2, respectively) for the P100 component (A,B), the left and right occipito-temporal electrode sites (P7 and P8) for the N170 component (C,D), and the left and right parietal electrode sites (P3 and P4) and the left and right at parietal electrodes (P3 and P4) for P250 component (E,F).'
   focal_point: ""
   preview_only: false
 
