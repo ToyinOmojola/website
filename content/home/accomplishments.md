@@ -25,11 +25,11 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2018-03-01"
-  description: XXX
-  organization: edX
+  date_start: "2018-07-01"
+  description: 
+  organization: repliCATS workshop
   organization_url:
-  title: XXX
+  title: Workshp grant()
   url: 
   
 - certificate_url: https://www.edx.org
