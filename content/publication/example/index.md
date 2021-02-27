@@ -6,7 +6,10 @@ title: "Brain Processes While Struggling With Evidence Accumulation During Facia
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Eric Brunet-Gouet
+- Mariana Burca
+- Emmanuel K. Kalunga
+- Michel-Ange Amorim
 
 # Author notes (optional)
 author_notes:
