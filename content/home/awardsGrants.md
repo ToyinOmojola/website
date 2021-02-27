@@ -39,7 +39,7 @@ item:
   organization: Society for the Improvement of Psychological Science (SIPS)
   organization_url: 
   title: 'Travel Grant ($2000),  Victoria, Canada'
-  url: 
+  url: ""
 - certificate_url: 
   date_end: ""
   date_start: "2018 July"
