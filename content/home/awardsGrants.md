@@ -25,27 +25,27 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url:
-  date_end: ""
+ # date_end: ""
   date_start: "2020 June"
-  description: ""
+ # description: ""
   organization: repliCATS project, Victoria, Canada
-  organization_url: 
+ # organization_url: 
   title: 'repliCATS project workshop grant ($500)'
-  url: ""
+ # url: ""
 - certificate_url: 
-  date_end: ""
+ # date_end: ""
   date_start: "2020 June"
-  description: 
+ # description: 
   organization: Society for the Improvement of Psychological Science (SIPS)
-  organization_url: 
+ # organization_url: 
   title: 'Travel Grant ($2000),  Victoria, Canada'
-  url: ""
+#  url: ""
 - certificate_url: 
-  date_end: ""
+#  date_end: ""
   date_start: "2018 July"
-  description: ""
+#  description: ""
   organization: CuttingEEG“ conference on advanced  EEG research methods
-  organization_url: 
+#  organization_url: 
   title: 'Fee waiver grant(300 €), Paris, France'
   url: ""
 ---
