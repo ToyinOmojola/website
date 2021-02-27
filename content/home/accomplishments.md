@@ -24,12 +24,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
-  date_end: ""
+  date_end:
   date_start: "2020"
   description: ""
-  organization: repliCATS project, `|2- Canada`
+  organization:repliCATS project
   organization_url: 
-  title:  `repliCATS project workshop grant ($500)`
+  title: `repliCATS project workshop grant ($500)`
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
