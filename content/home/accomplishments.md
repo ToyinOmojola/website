@@ -55,7 +55,7 @@ item:
   date_end: "2018-07-02"
   date_start: "2018-07-05"
   description: ""
-  organization: "CuttingEEG" conference on advanced EEG research methods
+  organization: CuttingEEG" conference on advanced EEG research methods
   organization_url: 
   title: Fee waiver grant (€300)
   url: ""
