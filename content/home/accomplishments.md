@@ -30,7 +30,7 @@ item:
   description: 
   organization: German Academic Excahnge Service (DAAD)
   organization_url:
-  title: Research grant, University of Würzburg, Germany
+  title: DAAD Research grant, University of Würzburg, Germany
   url: 
   
 - certificate_url: 
@@ -48,15 +48,15 @@ item:
   description: 
   organization: Society for Improvement of Psychological Science (SIPS)
   organization_url: 
-  title: Travel Grant
+  title: Travel Grant ($2000),Victoria, Canada
   url: 
   
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+- certificate_url: 
+  date_end: "2018-07-02"
+  date_start: "2018-07-05"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: "CuttingEEG" conference on advanced EEG research methods
+  organization_url: 
+  title: Fee waiver grant (€300)
   url: ""
 ---
