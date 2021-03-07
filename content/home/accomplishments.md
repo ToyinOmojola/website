@@ -66,7 +66,7 @@ item:
   description: 
   organization: Taiwan Paris-Saclay Doctoral Fellowship
   organization_url: 
-  title: Taiwan Paris-Saclay Doctoral Fellowship (~57,600€), Paris, France 
+  title: Taiwan Paris-Saclay Doctoral Fellowship (57,600€), Paris, France 
   url: "http://www.archives-upsud.universite-paris-saclay.fr/www.actu.u-psud.fr/fr/international/actualites-2014/bourses-taiwan.html"
 
 - certificate_url: 
