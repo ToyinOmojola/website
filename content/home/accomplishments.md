@@ -51,10 +51,10 @@ item:
   title: Travel Grant ($2000), Victoria, Canada
   url: 
   
-- certificate_url: 
+ - certificate_url: 
   date_end: "2018-07-02"
   date_start: "2018-07-05"
-  description: ""
+  description: 
   organization: "CuttingEEG" conference on advanced EEG research methods
   organization_url: 
   title: Fee waiver grant (€300), Paris, France
@@ -68,7 +68,7 @@ item:
   organization_url: 
   title: Taiwan Paris-Saclay Doctoral Fellowship (~57,600€), Paris, France 
   url: "http://www.archives-upsud.universite-paris-saclay.fr/www.actu.u-psud.fr/fr/international/actualites-2014/bourses-taiwan.html"
- 
+
 - certificate_url: 
   date_end: "2009-09-01"
   date_start: "2010-09-01"
