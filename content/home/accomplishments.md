@@ -31,7 +31,7 @@ item:
   organization: German Academic Excahnge Service (DAAD)
   organization_url:
   title: DAAD Research grant, University of Würzburg, Germany
-  url: 
+  url: ""
   
 - certificate_url: 
   date_end: ""
@@ -49,7 +49,7 @@ item:
   organization: Society for Improvement of Psychological Science (SIPS)
   organization_url: 
   title: Travel Grant ($2000), Victoria, Canada
-  url: 
+  url: ""
   
  - certificate_url: 
   date_end: "2018-07-02"
