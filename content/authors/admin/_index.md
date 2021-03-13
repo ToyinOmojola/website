@@ -6,7 +6,7 @@ title: Yu-Fang Yang
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Associate
+role: Postdoctoral fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,9 +21,9 @@ interests:
 - Face perception
 - Emotions
 - Visual processing
-- Drift decision model 
+- Diffusion Decision Model (DDM)
 - Electroencephalogram (EEG)
-- Eye tracking 
+- Eye - tracking 
 - Open Science
 
 # Education to show in About widget
@@ -62,7 +62,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yu-fang-yang-a911b416/
-
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-9089-6020
+  
+  
+  
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
