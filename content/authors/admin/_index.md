@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yu-Fang Yang
+title: admin_indexmd
 
 # Is this the primary user of the site?
 superuser: true
