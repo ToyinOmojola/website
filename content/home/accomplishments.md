@@ -29,7 +29,7 @@ item:
   date_start: "2020-11-01"
   description: ""
   organization: 'German Academic Excahnge Service (DAAD)'
-  organization_url:""
+  organization_url:
   title: DAAD Research grant, University of Würzburg, Germany
   url: ""
   
