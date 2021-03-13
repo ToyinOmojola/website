@@ -53,7 +53,7 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/ufangyang
-- icon: graduation-cap
+- icon: google-sholar
   icon_pack: fab
   link: https://scholar.google.com/citations?user=qEgjV44AAAAJ&hl=en
 - icon: github
@@ -65,6 +65,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-9089-6020
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Yu-Fang-Yang/research
   
   
   
