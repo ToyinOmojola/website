@@ -85,8 +85,8 @@ email: "yu-fang.yang@uni-wuerzburg.de"
 highlight_name: false
 ---
 
-I am s a researcher in Department of Psychology at the University of Wurzburg, Germany. Her research interests include social behavior, the face perception, facial expressions, eye movement, and EEG.
+[I am s a researcher in Department of Psychology at the University of Wurzburg, Germany. My research interests include social behavior, the face perception, facial expressions, eye movement, and EEG.
 
-I currently lead a project investigating the role of the diagnostic facial features (e.g., eyes and mouth) in the process of facial expression, which is supported by research grant from the [German Academic Exchange Service (DAAD)](https://www.daad.de/en/).
+I currently lead a project investigating the role of the diagnostic facial features (e.g., eyes and mouth) in the process of facial expression, which is supported by research grant from the [German Academic Exchange Service (DAAD)](https://www.daad.de/en/).]
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
