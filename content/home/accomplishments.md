@@ -34,8 +34,8 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2020-07-01"
-  description: repliCATS workshop, Victoria, Canada
-  organization: 
+  description: 
+  organization: repliCATS workshop, Victoria, Canada
   organization_url: 
   title: repliCATS workshop grant
   url: 
