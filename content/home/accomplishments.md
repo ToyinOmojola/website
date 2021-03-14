@@ -44,7 +44,32 @@ item:
   date_start: "2020-07-01"
   description: ""
   organization: Society for the Improvement of Psychological Science (SIPS), Victoria, Canada
-  organization_url: https://www.datacamp.com
+  organization_url: 
   title: Society for the Improvement of Psychological Science (SIPS) Travel grant
   url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-07-01"
+  description: ""
+  organization: “CuttingEEG“ conference on advanced  EEG research methods, Paris, France
+  organization_url: 
+  title: “CuttingEEG“ conference on advanced  EEG research methods, Fee waiver grant
+  url: ""
+- certificate_url: 
+  date_end: "2014-09-01"
+  date_start: "2018-07-01"
+  description: ""
+  organization: Taiwan Paris-Saclay Doctoral Fellowship, Paris, France
+  organization_url: 
+  title: Taiwan Paris-Saclay Doctoral Fellowship
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2009-09-01"
+  description: ""
+  organization: University of Bristol, Bristol, England
+  organization_url: 
+  title: International Postgraduate Scholarship
+  url: ""
+
 ---
