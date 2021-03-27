@@ -1,0 +1,22 @@
+# Theme metadata
+name = "fashion"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#041840"
+
+# Menu
+menu_primary = "#041840"
+menu_text = "#52B5F2"
+menu_text_active = "#f2E96D"
+menu_title = "#2F2994B"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
