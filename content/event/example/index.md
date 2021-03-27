@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Orientation sensitivity of face identification- A drift diffusion model analysis
 
 event: Wowchemy Conference
 event_url: https://example.org
