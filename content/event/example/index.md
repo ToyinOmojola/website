@@ -13,7 +13,7 @@ address:
   country: United States
 
 
-summary: Orientation sensitivity of face identification: A drift diffusion model analysis
+summary: Orientation sensitivity of face identification: A drift diffusion model analysis.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
