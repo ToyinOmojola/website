@@ -1,10 +1,10 @@
 ---
-title: Orientation sensitivity of face identification: A drift diffusion model analysis
+title: Example Talk
 
-event: Federation of European Neuroscience Societies (FENS), Poster
-event_url: 
+event: Wowchemy Conference
+event_url: https://example.org
 
-location: Virtual Forum
+location: Wowchemy HQ
 address:
   street: 450 Serra Mall
   city: Stanford
