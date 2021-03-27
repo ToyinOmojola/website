@@ -1,6 +1,6 @@
 ---
 title: Investigation of the role of diagnostic facial features 
-summary:Human observers spend more time looking at the eyes, nose and mouth than other features on the faces. What are the contributions of these diagnostic facial features to emotion recognition?  
+summary: Human observers spend more time looking at the eyes, nose and mouth than other features on the faces. What are the contributions of these diagnostic facial features to emotion recognition?  
 tags:
 - Face perception
 - Emotion recognition
@@ -31,7 +31,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 
