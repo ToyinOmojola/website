@@ -66,7 +66,7 @@ item:
   title: “CuttingEEG“ conference on advanced  EEG research methods, Fee waiver grant
   url: ""
 - certificate_url: 
-  date_end: "2018-07-01 "
+  date_end: "2018-07-01"
   date_start: "2014-09-01"
   description: ""
   organization: Taiwan Paris-Saclay Doctoral Fellowship, Paris, France
