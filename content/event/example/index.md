@@ -1,5 +1,5 @@
 ---
-title: Federation of European Neuroscience Societies (FENS), Poster
+title: Federation of European Neuroscience Societies (FENS)
 
 event: Wowchemy Conference
 event_url: https://example.org
