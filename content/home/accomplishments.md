@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Honors&shy;& Awards'
+title: 'Honors &shy;& Awards'
 subtitle:
 
 # Date format
@@ -22,7 +22,17 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 item:
+- certificate_url: 
+  date_end: "2021-03-26"
+  date_start: "2021-03-23"
+  description: ""
+  organization: OpenMR Benelux 2021, Virtual
+  organization_url: https://openmrbenelux.github.io/
+  title: Mini grant
+  url: ""
+  
 - certificate_url: 
   date_end: ""
   date_start: "2020-11-01"
