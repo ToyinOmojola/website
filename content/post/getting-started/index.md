@@ -1,15 +1,15 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Tutorial of R package 'papaja'- Reproducible APA manuscripts with R markdown
+subtitle: Lab presentation 
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Im intereseted in reproducibe research with R. I am using R package 'papaja' lately, and would like to give a short tutorial of how to do it.  
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2022-04-09 T00:00:00Z"
 
 # Date updated
 lastmod: "2020-12-13T00:00:00Z"
@@ -30,15 +30,17 @@ image:
 
 authors:
 - admin
-- 吳恩達
+- 
 
 tags:
 - Academic
-- 开源
+- R package
+- Reproducible research 
+- Open Science
 
 categories:
 - Demo
-- 教程
+- Tutorial
 ---
 
 ## Overview
