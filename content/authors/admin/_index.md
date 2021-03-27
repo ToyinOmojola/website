@@ -1,6 +1,6 @@
 ---
 # Display name
-title: admin_indexmd
+title: Yu-Fang Yang
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,14 +14,14 @@ organizations:
   url: https://www.psychologie.uni-wuerzburg.de/en/expklin/staff/yu-fang-yang/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include psychology, neuroscience and how human behaviours are shaped by social environment. 
+bio: My research interests include psychology, neuroscience & how human behaviours are shaped by social environment. 
 
 # Interests to show in About widget
 interests:
 - Face perception
 - Emotions
 - Visual processing
-- Diffusion Decision Model (DDM)
+- Drift-diffusion model (DDM)
 - Electroencephalogram (EEG)
 - Eye - tracking 
 - Open Science
@@ -70,19 +70,13 @@ social:
   link: https://www.researchgate.net/profile/Yu-Fang-Yang/research
   
   
-  
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yu-fang.yang@uni-wuerzburg.de"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 
