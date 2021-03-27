@@ -12,8 +12,9 @@ address:
   postcode: '94305'
   country: United States
 
-summary: Orientation sensitivity of face identification: A drift diffusion model analysis.
-abstract: " "
+
+summary: An example talk using Wowchemy's Markdown slides feature.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -38,9 +39,9 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/ufangyang/status/1282592950048952320?s=20
+  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "https://zenodo.org/record/3926732#.YF-9eWRKj0p"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
