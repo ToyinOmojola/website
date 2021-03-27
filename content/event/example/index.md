@@ -1,5 +1,5 @@
 ---
-title: Federation of European Neuroscience Societies (FENS)
+title: Example Talk
 
 event: Wowchemy Conference
 event_url: https://example.org
