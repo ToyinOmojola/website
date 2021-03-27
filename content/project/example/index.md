@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/ufangyang
-url_code: ""
+url_code: "PsyArxiv"
 url_pdf: "https://psyarxiv.com/af72e/"
 url_slides: ""
 url_video: ""
