@@ -1,7 +1,7 @@
 ---
-title: Conference presentation
+title: Orientation sensitivity of face identification: A drift diffusion model analysis
 
-event: Wowchemy Federation of European Neuroscience Societies (FENS), Poster
+event: Federation of European Neuroscience Societies (FENS), Poster
 event_url: 
 
 location: Virtual Forum
@@ -12,8 +12,8 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Orientation sensitivity of face identification: A drift diffusion model analysis.
+abstract: "Human face identification is driven by horizontal information. Performance peaks for horizontally filtered upright faces and declines for oblique and vertically filtered faces. Face inversion results in a downward shift of the entire sensitivity profile together with a doubling in bandwidth effectively abolishing the horizontal tuning curve. Past studies employed a psychophysical approach focusing on accuracy rather than response time. Here we use drift diffusion models (DDMs), a class of computational models for simultaneous modelling of accuracy and response time data. The parameters reveal a rich picture of the response generation process. The drift rate indexes the information accumulation rate, whereas boundary separation indicates how much evidence observers need to make a decision. In this study, we asked how filtering the orientation content of faces influences the decision process. Is the orientation sensitivity profile for accuracy data mimicked by the drift rate (implying faster information accumulation) and/or the boundary separation (implying differences in response caution). We observed that drift rates peaked in the horizontal range and declined for other orientations, both for upright and inverted faces. However, face inversion shifted down the entire orientation tuning curve, especially in the horizontal range. We further found that horizontally filtered content resulted in wider boundary separation in upright than inverted faces. In sum, our results indicate that filtering face orientation content influences the information accumulation process and that horizontal information is associated with more response caution in upright than in inverted faces, possibly because more face information is available in this range."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -38,9 +38,9 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/ufangyang/status/1282592950048952320?s=20
 url_code: ""
-url_pdf: ""
+url_pdf: "https://zenodo.org/record/3926732#.YF-9eWRKj0p"
 url_slides: ""
 url_video: ""
 
