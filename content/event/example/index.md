@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: Conference presentation
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Wowchemy Federation of European Neuroscience Societies (FENS), Poster
+event_url: 
 
-location: Wowchemy HQ
+location: Virtual Forum
 address:
   street: 450 Serra Mall
   city: Stanford
