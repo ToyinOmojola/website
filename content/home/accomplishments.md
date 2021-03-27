@@ -30,7 +30,7 @@ item:
   description: ""
   organization: OpenMR Benelux 2021, Virtual
   organization_url: https://openmrbenelux.github.io/
-  title: Mini grant
+  title: Conference Mini grant
   url: ""
   
 - certificate_url: 
