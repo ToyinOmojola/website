@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Federation of European Neuroscience Societies (FENS), Poster}{Virtual Forum
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -13,7 +13,7 @@ address:
   country: United States
 
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Orientation sensitivity of face identification: A drift diffusion model analysis
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
