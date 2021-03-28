@@ -15,9 +15,9 @@ abstract: "When we observe a dynamic emotional facial expression, we usually aut
 
 
 authors:
-- Dozolme, Dorian 
-- Prigent, Elise
-- **Yang**, **Yu-Fang** 
+- Dozolme, Dorian. 
+- Prigent, Elise.
+- <b>Yang, Yu-Fang <b>
 - and Amorim, Michel-Ange
 
 tags: [Pain, P100, Late Positive Potential(LPP), ERPs, Face, Emotional facial expression]
