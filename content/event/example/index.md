@@ -2,9 +2,9 @@
 title: Orientation sensitivity of face identification- A drift diffusion model analysis
 
 event: Federation of European Neuroscience Societies (FENS)
-event_url: https://example.org
+event_url: 
 
-location: Wowchemy HQ
+location: Virtual Forum
 address:
   street: 450 Serra Mall
   city: Stanford
