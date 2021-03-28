@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yu-Fang Yang
+title: Yu-Fang, Yang
 
 # Is this the primary user of the site?
 superuser: true
