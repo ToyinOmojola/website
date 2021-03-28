@@ -12,10 +12,6 @@ weight: 20
 title: Publications
 subtitle: ''
 
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
-
 
 content:
   # Page type to display. E.g. post, talk, publication...
