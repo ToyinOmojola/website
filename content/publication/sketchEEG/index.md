@@ -1,5 +1,5 @@
 ---
-title: xx
+title: Brain processes while struggling with evidence accumulation during facial emotion recognition: An ERP studyn
 
 event: xx
 event_url: 
