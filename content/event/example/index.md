@@ -18,8 +18,8 @@ abstract: "Human face identification is driven by horizontal information. Perfor
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-07-11T10:00:00Z"
-date_end: "202--07-15T17:00:00Z"
-all_day: true
+date_end: "202--07-15T11:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
