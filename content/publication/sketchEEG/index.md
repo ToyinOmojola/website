@@ -4,9 +4,8 @@ title: Brain processes while struggling with evidence accumulation during facial
 event: xx
 event_url: 
 
-location: Virtual Forum
+location: 
 # address:
-
 
 
 summary: 
@@ -32,12 +31,12 @@ featured: false
  # focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/ufangyang/status/1282592950048952320?s=20
+# - icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/ufangyang/status/1282592950048952320?s=20
 url_code: ""
-url_pdf: "https://zenodo.org/record/3926732#.YF-9eWRKj0p"
+url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7497730/"
 url_slides: ""
 url_video: ""
 
