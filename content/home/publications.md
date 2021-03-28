@@ -35,6 +35,16 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 4
+  
+item:
+- certificate_url: 
+  date_end: "2021-03-26"
+  date_start: "2021-03-23"
+  description: ""
+  organization: OpenMR Benelux 2021, Virtual
+  organization_url: https://openmrbenelux.github.io/
+  title: Conference Mini grant
+  url: ""
 ---
 
 {{% callout note %}}
