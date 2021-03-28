@@ -30,7 +30,7 @@ abstract: "When we observe a dynamic emotional facial expression, we usually aut
 
 authors: 
 - admin
-- Dozolme, Dorian, Prigent, Elise, Yang, Yu-Fang and Amorim, Michel-Ange]
+- Dozolme, Dorian, Prigent, Elise, Yang, Yu-Fang and Amorim, Michel-Ange 
 
 tags: [Pain, P100, Late Positive Potential(LPP), ERPs, Face, Emotional facial expression]
 
