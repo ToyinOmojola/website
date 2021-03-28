@@ -1,10 +1,24 @@
 ---
 title: The neuroelectric dynamics of the emotional anticipation of other people’s pain
 
-event: PloS one
-event_url: 
+# where your title was published - Markdown formatting is enabled here for italic etc.
+publication: PloS one
 
-# Talk start and end times.
+# publication type
+publication_types: 3
+# use the following legend to specify the type of your publication, e.g. "1" for conference
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Preprint / Working Paper
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+# 7 = Thesis (v4.2+ required)
+# 8 = Patent (v4.2+ required)
+
+
+# Journal published date
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2018-08-01"
 # date_end: "2020-07-15"
