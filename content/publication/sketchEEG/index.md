@@ -1,7 +1,7 @@
 ---
 title: Brain processes while struggling with evidence accumulation during facial emotion recognition - An ERP study
 
-event: xx
+event: Frontiers in human neuroscience
 event_url: 
 
 location: 
@@ -20,7 +20,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 # publishDate: "2017-01-01T00:00:00Z"
 
-authors: [Yang, Yu-Fang and Brunet-Gouet, Eric and Burca, Mariana and Kalunga, Emmanuel K and Amorim, Michel-Ange]
+authors: [Yang, Yu-Fang* and Brunet-Gouet, Eric and Burca, Mariana and Kalunga, Emmanuel K and Amorim, Michel-Ange, Frontiers in human neuroscience. ]
 tags: []
 
 # Is this a featured talk? (true/false)
