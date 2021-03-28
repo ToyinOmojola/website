@@ -8,7 +8,7 @@ event_url:
 #   End time can optionally be hidden by prefixing the line with `#`.
 # date: "In prep"
 # date_end: "2020-07-15"
-all_day: false
+# all_day: false
 
 summary: 
 abstract: "To address the role of diagnostic features and configural information in emotion recognition, we compared fixation patterns (on eyes, nose, mouth) and recognition performance from sketched (without head contours) and photographed face counterparts. Although sketch faces supposedly induce less configural processing than photographed faces, when they convey relevant diagnostic features, recognition performance is equivalent. First fixation patterns depended on emotion. Happy mouth was the only feature that received more fixations than eyes and nose. Fixations on diagnostic features varied with stimulus type and emotion during the second fixation only. Sadness, happiness, and anger generated more fixations on eyes for sketches, suggesting a part-based perceptual strategy. Conversely, longer central fixations on photographed faces suggested more configural processing. Removal of configural information (sketched faces) did not affect emotion recognition performance, supposedly because participants used a different visual scanning strategy of part-based processing towards the eyes to compensate for the impoverished configuration."
