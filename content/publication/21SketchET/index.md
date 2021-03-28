@@ -4,6 +4,22 @@ title: Reduced configural information modulates fixation patterns but does not a
 event: PsyArXiv
 event_url: 
 
+# where your title was published - Markdown formatting is enabled here for italic etc.
+# publication: elife
+
+# publication type
+publication_types: "3"
+# use the following legend to specify the type of your publication, e.g. "1" for conference
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Preprint / Working Paper
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+# 7 = Thesis (v4.2+ required)
+# 8 = Patent (v4.2+ required)
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 # date: "In prep"
