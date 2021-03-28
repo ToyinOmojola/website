@@ -2,7 +2,7 @@
 title: Brain processes while struggling with evidence accumulation during facial emotion recognition - An ERP study
 
 # where your title was published - Markdown formatting is enabled here for italic etc.
-publication: *Journal of neurophysiology*
+publication: Journal of neurophysiology
 
 # publication type
 publication_types: "2"
