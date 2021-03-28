@@ -5,7 +5,7 @@ title: The neuroelectric dynamics of the emotional anticipation of other peopleâ
 publication: PloS one
 
 # publication type
-publication_types: 3
+publication_types: 
 # use the following legend to specify the type of your publication, e.g. "1" for conference
 # 0 = Uncategorized
 # 1 = Conference paper
