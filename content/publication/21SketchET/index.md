@@ -22,7 +22,7 @@ publication_types: "3"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: "In prep"
+ date: "20XX-0X-XX"
 # date_end: "2020-07-15"
 # all_day: false
 
