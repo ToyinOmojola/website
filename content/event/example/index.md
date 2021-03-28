@@ -19,7 +19,7 @@ date_end: "2020-07-15"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -37,7 +37,7 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://zenodo.org/record/3926732#.YF-9eWRKj0p"
 url_slides: ""
 url_video: ""
 
