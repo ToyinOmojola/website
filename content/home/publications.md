@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: publication
 
 # This file represents a page section.
 headless: true
@@ -9,8 +9,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Publications
+title: XX
 subtitle: ''
+
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
+
 
 content:
   # Page type to display. E.g. post, talk, publication...
