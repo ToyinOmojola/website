@@ -5,7 +5,7 @@ title: The neuroelectric dynamics of the emotional anticipation of other peopleâ
 publication: PloS one
 
 # publication type
-publication_types: 
+publication_types: "2"
 # use the following legend to specify the type of your publication, e.g. "1" for conference
 # 0 = Uncategorized
 # 1 = Conference paper
@@ -49,18 +49,5 @@ url_pdf: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200
 url_slides: ""
 url_video: ""
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects:
-# - example
 ---
