@@ -29,8 +29,8 @@ abstract: "When we observe a dynamic emotional facial expression, we usually aut
 
 
 authors: 
-- Dozolme, Dorian.
-- Prigent, Elise.
+- Dozolme, Dorian
+- Prigent, Elise
 - admin
 - and Amorim, Michel-Ange 
 
