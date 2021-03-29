@@ -48,12 +48,16 @@ tags: [Best practices, Brainhack, Collaboration, Community building, Hackathon, 
  # focal_point: Right
 
 links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/brainhackorg/status/1360603491710951425?s=20
+  
 # - icon: twitter
 #  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/ufangyang/status/1282592950048952320?s=20
-# url_code: ""
-# url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7497730/"
+#  name: Follow  
+# url_code: "https://osf.io/4szct/"
+ url_pdf: "https://psyarxiv.com/rytjq/"
 # url_slides: ""
 # url_video: ""
 
