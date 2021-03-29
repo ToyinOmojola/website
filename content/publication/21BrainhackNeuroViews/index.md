@@ -1,5 +1,5 @@
 ---
-title: Natural contrast alleviates evidence accumulation leading up to face categorization
+title: "Brainhack: developing a culture of open, inclusive, community-driven neuroscience"
 
 # where your title was published - Markdown formatting is enabled here for italic etc.
 # publication: Frontiers in human neuroscience
