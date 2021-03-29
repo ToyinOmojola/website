@@ -23,7 +23,7 @@ publication_types: "3"
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 # date: "20-0X-XX"
-# date_end: "2020-07-15"
+date_end: "2021-02-28"
 # all_day: false
 
 summary: 
@@ -46,7 +46,13 @@ links:
 #  name: Follow
 #  url: https://twitter.com/ufangyang/status/1282592950048952320?s=20
 url_code: ""
-url_pdf: "https://psyarxiv.com/af72e/"
+
+- icon: PsyArXiv
+  icon_pack: fab
+  name: Preprint
+  url: "https://psyarxiv.com/af72e/"
+  
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
