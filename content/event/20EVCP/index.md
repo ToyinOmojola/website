@@ -8,7 +8,7 @@ location: Leuven, Belgium
 category: Talk
 
 
-summary: 
+summary: European Conference on Visual Perception (ECVP), **Talk**
 abstract: ""
 
 # Talk start and end times.
