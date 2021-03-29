@@ -5,7 +5,7 @@ event: European Conference on Visual Perception (ECVP)
 event_url: 
 
 location: Leuven, Belgium
-
+type: Talk
 
 summary: 
 abstract: ""
