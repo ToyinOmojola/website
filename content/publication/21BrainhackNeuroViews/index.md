@@ -27,7 +27,7 @@ summary:
 abstract:"Brainhackisaninnovativemeetingformatthatpromotesscientificcollaborationandeducationinanopenandinclusiveenvironment.Departingfromtheformatsoftypicalscientificworkshops,theseeventsarebasedongrassrootsprojectsandtraining,andfosteropenandreproduciblescientificpractices.Wedescribeherethemultifaceted,lastingbenefitsofBrainhacksforindividualparticipants,particularlyearlycareerresearchers.WefurtherhighlighttheuniquecontributionsthatBrainhackscanmaketotheresearchcommunity,augmentingscientificprogressbycomplementingopportunitiesavailableinconventionalformats."
 
 
-authors: [Gau, R.*, Nobel, S.*, Heuer, K.*, Bottenhorn, L.*, Bilgin, I.* & admin*, et al. *denotes equal contributions]
+authors: [Gau, Remi*, Nobel, Stephanie*, Heuer, Katja*, Bottenhorn, L. Katherine*, Bilgin, Isil P.*, admin*, and et al.]
 tags:[bestpractices, Brainhack,collaboration, communitybuilding, hackathon, inclusivity, neuroscience, openscience, reproducibility, training]
 
 
