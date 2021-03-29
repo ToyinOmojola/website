@@ -49,10 +49,10 @@ tags: [Best practices, Brainhack, Collaboration, Community building, Hackathon, 
  # focal_point: Right
 
 links:
- - icon: twitter
-   icon_pack: fab
-   name: Follow
-   url: https://twitter.com/brainhackorg/status/1360603491710951425?s=20
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/brainhackorg/status/1360603491710951425?s=20
   
 # - icon: twitter
 #  icon_pack: fab
