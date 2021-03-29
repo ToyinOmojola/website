@@ -24,6 +24,10 @@ all_day: true
 authors: []
 tags: []
 
+categories:
+- Talk
+
+
 # Is this a featured talk? (true/false)
 featured: false
 
