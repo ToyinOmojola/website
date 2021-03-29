@@ -10,7 +10,7 @@ headless: true
 weight: 120
 
 title: Popular Topics
-subtitle: 'Click on the topic that interested you 👉'
+subtitle: 'Click on the topic that interested you & it filters out the relevant topics/articles for you from my website '
 
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
