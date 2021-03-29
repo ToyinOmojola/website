@@ -2,7 +2,7 @@
 title: Does the brain process similarly photos and sketches when faces?
 
 event: International Conference for Cognitive Neuroscience(ICON)
-event_url:https://eventegg.com/icon-2017/
+event_url: https://eventegg.com/icon-2017/
 
 location: 
 # address:
