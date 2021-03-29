@@ -24,7 +24,7 @@ publication_types: "3"
 # all_day: false
 
 summary: 
-abstract: " "
+abstract: "Brainhack is an innovative meeting format that promotes scientific collaboration and education in an open and inclusive environment. Departing from the formats of typical scientific workshops, these events are based on grassroots projects and training, and foster open and reproducible scientific practices. We describe here the multifaceted, lasting benefits of Brainhacks for individual participants, particularly early career researchers. We further highlight the unique contributions that Brainhacks can make to the research community, augmenting scientific progress by complementing opportunities available in conventional formats."
 
 
 authors: [Liu-Shuang, J., admin, Rossion, B. & Goffaux, V. ]
