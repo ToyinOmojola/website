@@ -8,7 +8,7 @@ location:
 # address:
 
 
-summary: International Conference for Cognitive Neuroscience(ICON), **Poster**
+summary: International Conference for Cognitive Neuroscience(ICON), Poster
 abstract: ""
 
 # Talk start and end times.
@@ -21,10 +21,9 @@ all_day: true
 # publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
+tags: [Poster]
 
-categories:
-- Poster
+
 
 
 # Is this a featured talk? (true/false)
