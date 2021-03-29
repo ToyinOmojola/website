@@ -2,12 +2,12 @@
 title: Contrast sensitivity for rapid face categorization among natural images
 
 event: GDR Vision
-event_url: 
+event_url: https://gdrvision2019.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en
 
 location: Marseille, France
 
 
-summary: 
+summary: GDR Vision, **Talk**
 abstract: " "
 
 # Talk start and end times.
@@ -35,7 +35,7 @@ featured: false
 # name: Follow
 #  url: https://twitter.com/ufangyang/status/1282592950048952320?s=20
 url_code: ""
-url_pdf: "https://zenodo.org/record/3926732#.YF-9eWRKj0p"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
