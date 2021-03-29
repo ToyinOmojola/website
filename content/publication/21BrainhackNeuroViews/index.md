@@ -2,6 +2,7 @@
 title: "Brainhack: developing a culture of open, inclusive, community-driven neuroscience"
 
 # where your title was published - Markdown formatting is enabled here for italic etc.
+# publication: NeuroViews
 # publication: Frontiers in human neuroscience
 
 # publication type
@@ -19,7 +20,7 @@ publication_types: "3"
 
 # published time
 # End time can optionally be hidden by prefixing the line with `#`.
-# date: "2020-09-01"
+ date: "2021-02-12"
 # date_end: "2020-07-15"
 # all_day: false
 
@@ -38,7 +39,7 @@ authors:
 - Johanna Bayer*
 - Richard A.I. Bethlehem*
 - et al
--
+- * denotes equal contributions
 tags: [Best practices, Brainhack, Collaboration, Community building, Hackathon, Inclusivity, Neuroscience, Open science, Reproducibility, Training]
 
 
@@ -48,10 +49,10 @@ tags: [Best practices, Brainhack, Collaboration, Community building, Hackathon, 
  # focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/brainhackorg/status/1360603491710951425?s=20
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/brainhackorg/status/1360603491710951425?s=20
   
 # - icon: twitter
 #  icon_pack: fab
