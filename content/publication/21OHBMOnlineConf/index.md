@@ -44,7 +44,7 @@ links:
   
   
 # url_code: ""
-url_pdf: "https://psyarxiv.com/vj5tu/"
+url_preprint: "https://psyarxiv.com/vj5tu/"
 # url_slides: ""
 # url_video: ""
 
