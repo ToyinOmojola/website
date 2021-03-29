@@ -9,7 +9,7 @@ location: Brussels, Belgium
 
 
 
-summary: Poster
+summary: Belgian Society for Neuroscience, **Poster**
 abstract: ""
 
 # Talk start and end times.
