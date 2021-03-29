@@ -8,7 +8,7 @@ location:
 # address:
 
 
-summary:  **Poster**
+summary: 
 abstract: ""
 
 # Talk start and end times.
