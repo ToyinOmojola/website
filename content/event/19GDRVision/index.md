@@ -7,7 +7,7 @@ event_url: https://gdrvision2019.sciencesconf.org/?forward-action=index&forward-
 location: Marseille, France
 
 
-summary: GDR Vision, **Talk**
+summary: GDR Vision, Talk
 abstract: " "
 
 # Talk start and end times.
@@ -20,7 +20,7 @@ all_day: true
 # publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: [Contrast, Face perception, Frequency-tagging]
+tags: [Contrast, Face perception, Frequency-tagging, Talk]
 
 # Is this a featured talk? (true/false)
 featured: false
