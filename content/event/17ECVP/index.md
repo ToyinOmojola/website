@@ -8,7 +8,7 @@ location: Berlin, Germany
 # address:
 
 
-summary: European Conference on Visual Perception (ECVP),**Poster**
+summary: European Conference on Visual Perception (ECVP), Poster
 abstract: ""
 
 # Talk start and end times.
@@ -21,10 +21,7 @@ all_day: true
 # publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
-
-categories:
-- Poster
+tags: [Poster]
 
 
 # Is this a featured talk? (true/false)
