@@ -1,5 +1,5 @@
 ---
-title: Brain processes while struggling with evidence accumulation during facial emotion recognition - An ERP study
+title: "Brain processes while struggling with evidence accumulation during facial emotion recognition: An ERP study"
 
 # where your title was published - Markdown formatting is enabled here for italic etc.
 publication: Frontiers in human neuroscience
