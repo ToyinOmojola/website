@@ -44,17 +44,17 @@ links:
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#  url: https://twitter.com/ufangyang/status/1282592950048952320?s=20
-url_code: ""
+#  url: 
 
 - icon: PsyArXiv
   icon_pack: fab
   name: Preprint
-  url: "https://psyarxiv.com/af72e/"
-  
-url_pdf: ""
-url_slides: ""
-url_video: ""
+  url: https://psyarxiv.com/af72e/
+ 
+# url_code: "" 
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
