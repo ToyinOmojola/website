@@ -20,7 +20,7 @@ publication_types: "3"
 
 # published time
 # End time can optionally be hidden by prefixing the line with `#`.
- date: "2021-02-12"
+ date: "2021-12-02"
 # date_end: "2020-07-15"
 # all_day: false
 
@@ -49,10 +49,10 @@ tags: [Best practices, Brainhack, Collaboration, Community building, Hackathon, 
  # focal_point: Right
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/brainhackorg/status/1360603491710951425?s=20
+ - icon: twitter
+   icon_pack: fab
+   name: Follow
+   url: https://twitter.com/brainhackorg/status/1360603491710951425?s=20
   
 # - icon: twitter
 #  icon_pack: fab
