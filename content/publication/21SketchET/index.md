@@ -1,8 +1,6 @@
 ---
 title: Reduced configural information modulates fixation patterns but does not affect emotion recognition
 
-event: PsyArXiv
-event_url: 
 
 # where your title was published - Markdown formatting is enabled here for italic etc.
 # publication: elife
@@ -20,11 +18,11 @@ publication_types: "3"
 # 7 = Thesis (v4.2+ required)
 # 8 = Patent (v4.2+ required)
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-# date: "20-0X-XX"
-date_end: "2021-02-28"
-# all_day: false
+
+# published time
+# End time can optionally be hidden by prefixing the line with `#`.
+date: "2021-02-28" #Y-M-D
+
 
 summary: 
 abstract: "To address the role of diagnostic features and configural information in emotion recognition, we compared fixation patterns (on eyes, nose, mouth) and recognition performance from sketched (without head contours) and photographed face counterparts. Although sketch faces supposedly induce less configural processing than photographed faces, when they convey relevant diagnostic features, recognition performance is equivalent. First fixation patterns depended on emotion. Happy mouth was the only feature that received more fixations than eyes and nose. Fixations on diagnostic features varied with stimulus type and emotion during the second fixation only. Sadness, happiness, and anger generated more fixations on eyes for sketches, suggesting a part-based perceptual strategy. Conversely, longer central fixations on photographed faces suggested more configural processing. Removal of configural information (sketched faces) did not affect emotion recognition performance, supposedly because participants used a different visual scanning strategy of part-based processing towards the eyes to compensate for the impoverished configuration."
