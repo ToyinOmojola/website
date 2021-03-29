@@ -60,7 +60,7 @@ links:
   url:https://osf.io/4szct/
 
 # url_code: "https://osf.io/4szct/"
-  url_pdf: "https://psyarxiv.com/rytjq/"
+url_pdf: "https://psyarxiv.com/rytjq/"
 # url_slides: ""
 # url_video: ""
 
