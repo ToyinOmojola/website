@@ -39,7 +39,7 @@ authors:
 - Johanna Bayer*
 - Richard A.I. Bethlehem*
 - et al
-- *denotes equal contributions
+- "*denotes equal contributions"
 tags: [Best practices, Brainhack, Collaboration, Community building, Hackathon, Inclusivity, Neuroscience, Open science, Reproducibility, Training]
 
 
