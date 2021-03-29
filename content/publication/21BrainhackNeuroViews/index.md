@@ -1,5 +1,5 @@
 ---
-title: [Brainhack: developing a culture of open, inclusive, community-driven neuroscience]
+title: "Brainhack: developing a culture of open, inclusive, community-driven neuroscience"
 
 # where your title was published - Markdown formatting is enabled here for italic etc.
 # publication: NeuroViews
@@ -26,9 +26,8 @@ publication_types: "3"
 summary: 
 abstract:"Brainhackisaninnovativemeetingformatthatpromotesscientificcollaborationandeducationinanopenandinclusiveenvironment.Departingfromtheformatsoftypicalscientificworkshops,theseeventsarebasedongrassrootsprojectsandtraining,andfosteropenandreproduciblescientificpractices.Wedescribeherethemultifaceted,lastingbenefitsofBrainhacksforindividualparticipants,particularlyearlycareerresearchers.WefurtherhighlighttheuniquecontributionsthatBrainhackscanmaketotheresearchcommunity,augmentingscientificprogressbycomplementingopportunitiesavailableinconventionalformats."
 
-
-authors: [Gau, Remi*, Nobel, Stephanie*, Heuer, Katja*, Bottenhorn, L. Katherine*, Bilgin, Isil P.*, admin*, and et al.]
-tags:[bestpractices, Brainhack,collaboration, communitybuilding, hackathon, inclusivity, neuroscience, openscience, reproducibility, training]
+authors: [Gau, Remi*, Nobel, Stephanie*, Heuer, Katja*, Bottenhorn, L. Katherine*, Bilgin, Isil P.*, admin*, and et al]
+tags: [bestpractices, Brainhack,collaboration, communitybuilding, hackathon, inclusivity, neuroscience, openscience, reproducibility, training]
 
 
 
