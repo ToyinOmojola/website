@@ -35,12 +35,14 @@ tags: [Online conference, Open Science]
 # image:
  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
  # focal_point: Right
-
+ 
 links:
- - icon: twitter
+- icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/ufangyang/status/1375096342880587788?s=20
+  
+  
 # url_code: ""
 url_pdf: "https://psyarxiv.com/vj5tu/"
 # url_slides: ""
