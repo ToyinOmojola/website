@@ -53,7 +53,11 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/brainhackorg/status/1360603491710951425?s=20
-
+  
+- icon: osf
+  icon_pack: fab
+  name: Follow
+  url:https://osf.io/4szct/
 
 # url_code: "https://osf.io/4szct/"
   url_pdf: "https://psyarxiv.com/rytjq/"
