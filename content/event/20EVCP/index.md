@@ -14,7 +14,7 @@ abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date_start: "2019-08-25"
-date_end: "2020-08-29"
+date_end: "2019-08-29"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -31,10 +31,10 @@ featured: false
  # focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: 
+# - icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
