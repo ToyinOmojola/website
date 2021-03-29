@@ -9,7 +9,7 @@ location: Brussels, Belgium
 
 
 
-summary: Belgian Society for Neuroscience, **Poster**
+summary: Belgian Society for Neuroscience, Poster
 abstract: ""
 
 # Talk start and end times.
@@ -22,7 +22,7 @@ all_day: false
 # publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
+tags: [Poster]
 
 categories:
 - Poster
