@@ -2,7 +2,7 @@
 title: How the sequence of fixation times reveals the decoding strategy of emotional faces
 
 event: European Conference on Visual Perception (ECVP)
-event_url:
+event_url: http://www.ecvp.org/2017/
 
 location: Berlin, Germany
 # address:
