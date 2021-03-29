@@ -8,7 +8,7 @@ location: Marseille, France
 
 
 summary: 
-abstract: ""
+abstract: " "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -19,7 +19,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 # publishDate: "2017-01-01T00:00:00Z"
 
-# authors: []
+authors: []
 tags: [Contrast, Face perception, Frequency-tagging]
 
 # Is this a featured talk? (true/false)
@@ -30,7 +30,7 @@ featured: false
  # focal_point: Right
 
 links:
-# - icon: twitter
+- icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/ufangyang/status/1282592950048952320?s=20
