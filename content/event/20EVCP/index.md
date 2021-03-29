@@ -2,18 +2,20 @@
 title: Contrast sensitivity of rapid face categorisation 
 
 event: European Conference on Visual Perception (ECVP)
-event_url: 
+event_url: https://ecvp.org/
 
 location: Leuven, Belgium
-type: Talk
+
+categories: [Talk]
+
 
 summary: 
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-07-11"
-date_end: "2020-07-15"
+date_start: "2019-08-25"
+date_end: "2020-08-29"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -33,9 +35,9 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/ufangyang/status/1282592950048952320?s=20
+  url: 
 url_code: ""
-url_pdf: "https://zenodo.org/record/3926732#.YF-9eWRKj0p"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
