@@ -1,6 +1,5 @@
 ---
-title: Natural contrast alleviates evidence
-accumulation leading up to face categorization
+title: Natural contrast alleviates evidence accumulation leading up to face categorization
 
 # where your title was published - Markdown formatting is enabled here for italic etc.
 # publication: Frontiers in human neuroscience
