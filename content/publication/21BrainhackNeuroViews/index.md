@@ -1,5 +1,5 @@
 ---
-title: Brainhack: developing a culture of open, inclusive, community-driven neuroscience
+title: [Brainhack: developing a culture of open, inclusive, community-driven neuroscience]
 
 # where your title was published - Markdown formatting is enabled here for italic etc.
 # publication: NeuroViews
