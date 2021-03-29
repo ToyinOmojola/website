@@ -30,13 +30,13 @@ interests:
 education:
   courses:
   - course: PhD in Psychology
-    institution: University of Paris-Saclay, France
+    institution: University of Paris-Saclay, Gif-sur-Yvette, France
     year: 2018
   - course: Md in Psychology in Education
-    institution: University of Bristol, England
+    institution: University of Bristol, Bristol, England
     year: 2009
   - course: BSc in Information and Communication
-    institution: Chinese Culture University, Taiwan
+    institution: Chinese Culture University, Taipei, Taiwan
     year: 2004
 
 # Social/Academic Networking
