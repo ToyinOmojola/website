@@ -56,7 +56,7 @@ links:
   
 - icon: osf
   icon_pack: fab
-  name: Follow
+  name: OSF
   url: "https://osf.io/4szct/"
 
 # url_code: "https://osf.io/4szct/"
