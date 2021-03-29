@@ -6,7 +6,7 @@ event_url: https://ecvp.org/
 
 location: Leuven, Belgium
 
-categories: [Talk]
+
 
 
 summary: 
@@ -22,7 +22,7 @@ all_day: true
 # publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
+tags: [Talk]
 
 # Is this a featured talk? (true/false)
 featured: false
