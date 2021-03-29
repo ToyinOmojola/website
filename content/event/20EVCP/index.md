@@ -1,7 +1,7 @@
 ---
 title: Contrast sensitivity of rapid face categorisation 
 
-event: European Conference on Visual Perception (ECVP)
+event: "European Conference on Visual Perception (ECVP)"
 event_url: https://ecvp.org/
 
 location: Leuven, Belgium
@@ -13,7 +13,7 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date_start: "2019-08-25"
+date: "2019-08-25"
 date_end: "2019-08-29"
 all_day: true
 
